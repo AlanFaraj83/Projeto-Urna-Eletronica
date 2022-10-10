@@ -26,7 +26,7 @@
 
 <h2>Descrição do Projeto:</h2>
 
-<p><br/>Já que estamos perto das eleições fiz o projeto urna eletronica para estudar e praticar tanto em front-end quanto back-end.O projeto tem a finalidade de treinar conceitos de programação onde os códigos são utilizados no mercados de tecnologia</p><br/>
+<p><br/>Já que estamos perto das eleições fiz o projeto urna eletronica para estudar e praticar tanto em front-end quanto back-end. O projeto tem a finalidade de treinar conceitos de programação onde os códigos são utilizados nos mercados de tecnologia.</p><br/>
 
 <h2>🚀Conteudo Utilizado:</h2>
 
