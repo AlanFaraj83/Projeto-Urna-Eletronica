@@ -28,7 +28,7 @@
 
 <p><br/>Já que estamos perto das eleições fiz o projeto urna eletronica para estudar e praticar tanto em front-end quanto back-end.O projeto tem a finalidade de treinar conceitos de programação onde os códigos são utilizados no mercados de tecnologia</p><br/>
 
-<h2>Conteudo Utilizado:</h2>
+<h2>🚀Conteudo Utilizado:</h2>
 
 * HTML
 * CSS
@@ -40,7 +40,9 @@
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 		
-<br>	
+<br/>
+
+#### Como baixar o projeto: git clone 
 
 
 
