@@ -33,7 +33,7 @@
 * HTML
 * CSS
 * JavaScript
-
+* DOM
 <br/>
 
 ## 📝 Licença:
